@@ -8,7 +8,7 @@ This project explores how Amazon Vine reviews differ from non-Vine reviews in te
 
 ## Dataset
 
-We use the **Amazon US Customer Reviews – Beauty** dataset.
+We use the **[Amazon US Customer Reviews – Beauty](https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset/data?select=amazon_reviews_us_Beauty_v1_00.tsv)** dataset.
 
 Our initial exploratory data analysis (EDA) identified:
 - **5M+** total reviews
